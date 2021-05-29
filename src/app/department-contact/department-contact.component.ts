@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-department-contact',
   template: `
     <p>
-      department-contact works!
+      Hi Maila Dasu How are you
     </p>
   `,
   styles: [
